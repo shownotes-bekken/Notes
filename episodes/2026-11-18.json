@@ -1,0 +1,366 @@
+{
+  "date": "2026-11-18",
+  "title": "Bekken – onsdag 18. november 2026",
+  "description": "Equinor er rammet av et pågående dataangrep, og Fornebubanen kan bli 3,6 milliarder kroner dyrere enn rammen. Russland har truffet bruene i Kyiv, mens Ukraina har ødelagt deler av Kertsj-brua, og Iran har igjen sendt droner mot Bahrain. I tillegg: EU-sanksjoner, Tesla i Europa, Trump om gass i Alaska og flere saker fra USA, og til slutt dette skjedde på Stortinget i går, blant annet tobakksloven og svar om Nussir-salget og strømprisene.",
+  "links": {
+    "spotify": "https://open.spotify.com/episode/3UX7CQV257yG5bKwRUC8c2",
+    "youtube": "https://youtu.be/Ck5hXpDMc3Y",
+    "x": "https://x.com/i/status/2123029948906590213"
+  },
+  "topics": [
+    {
+      "title": "Dataangrep mot Equinor",
+      "start": 4.57,
+      "sources": [
+        {
+          "name": "Equinor (pressemelding)",
+          "url": "https://www.equinor.com/no/nyheter/20261711-equinor-har-avdekket-cyberangrep"
+        },
+        {
+          "name": "NRK",
+          "url": "https://www.nrk.no/artikkel/equinor-pagaende-cyberangrep-mot-it-systemer-1533278"
+        },
+        {
+          "name": "Aftenposten",
+          "url": "https://www.aftenposten.no/norge/i/yz3mWK/equinor-har-avdekket-et-paagaaende-dataangrep-mot-it-systemer"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://www.marketscreener.com/news/equinor-detects-cyberattack-against-some-it-systems-ce785edcdd8cf223"
+        }
+      ]
+    },
+    {
+      "title": "Fornebubanen kan bli 3,6 milliarder dyrere",
+      "start": 49.99,
+      "sources": [
+        {
+          "name": "Oslo kommune (pressemelding)",
+          "url": "https://aktuelt.oslo.kommune.no/ny-analyse-fornebubanen-kan-koste-mer"
+        },
+        {
+          "name": "Finansavisen",
+          "url": "https://www.finansavisen.no/samfunn/2026/11/17/8396436/budsjettsprekk-for-fornebubanen-kan-bli-3-6-mrd.-dyrere-enn-ventet"
+        },
+        {
+          "name": "Finansavisen",
+          "url": "https://www.finansavisen.no/bygg-og-anlegg/2026/11/17/8396452/gigantsprekk-pa-fornebubanen-bard-hoksrud-varsler-skyhoye-bompenger"
+        },
+        {
+          "name": "Finansavisen",
+          "url": "https://www.finansavisen.no/bygg-og-anlegg/2026/11/09/8394359/fornebubanen-mot-ny-gigantsprekk-kan-ryke-flere-milliarder"
+        }
+      ]
+    },
+    {
+      "title": "Russland traff bruene i Kyiv",
+      "start": 100.41,
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cq7825234lgmo"
+        },
+        {
+          "name": "Kyiv Independent",
+          "url": "https://kyivindependent.com/key-bridges-in-kyiv-struck-in-massive-russian-ballistic-missile-attack-across-ukraine/"
+        },
+        {
+          "name": "Kyiv Post",
+          "url": "https://www.kyivpost.com/post/90297"
+        },
+        {
+          "name": "Kyiv Post",
+          "url": "https://www.kyivpost.com/post/90320"
+        },
+        {
+          "name": "Ukrainska Pravda",
+          "url": "https://www.pravda.com.ua/eng/news/2026/11/17/8063258/"
+        }
+      ]
+    },
+    {
+      "title": "Ukraina ødela deler av Kertsj-brua",
+      "start": 136.78,
+      "sources": [
+        {
+          "name": "Politico",
+          "url": "https://www.politico.eu/article/zelenskyy-gives-details-on-ukraine-crimea-bridge-operation/"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/18/ukraine-war-briefing-us-criticises-kyiv-deep-strikes-russia"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://www.devdiscourse.com/article/international/4008541-european-made-ruta-missiles-only-foreign-weapons-used-in-ukraines-crimean-bridge-strike-company-says"
+        }
+      ]
+    },
+    {
+      "title": "USA og Europa uenige om angrep inn i Russland",
+      "start": 171.63,
+      "sources": [
+        {
+          "name": "Det amerikanske forsvarsdepartementet",
+          "url": "https://www.war.gov/News/Speeches/Speech/Article/4650433/"
+        },
+        {
+          "name": "AP",
+          "url": "https://apnews.com/article/colby-ukraine-deep-long-nato-strikes-starshield-e570c549277a14f97ad24319f2f1bf7e"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/18/ukraine-war-briefing-us-criticises-kyiv-deep-strikes-russia"
+        },
+        {
+          "name": "Interfax-Ukraina",
+          "url": "https://en.interfax.com.ua/news/general/1238186.html"
+        },
+        {
+          "name": "Ukrinform",
+          "url": "https://www.ukrinform.net/rubric-ato/4185790-zelensky-calls-on-us-to-enable-satellite-communications-to-target-ballistic-missile-launchers.html"
+        }
+      ]
+    },
+    {
+      "title": "Iran sendte droner mot Bahrain",
+      "start": 220.4,
+      "sources": [
+        {
+          "name": "AP",
+          "url": "https://apnews.com/article/iran-trump-israel-bahrain-attacks-582e0b5d51be06f0ed630fac24f39b72"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/17/bahrain-thwarts-drone-attack-iran-claims-targeting-us-military-radar"
+        },
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/17/iran-claims-drone-attack-on-us-radar-system-at-sheikh-isa-air-base-in-bahrain"
+        },
+        {
+          "name": "ABC News",
+          "url": "https://abcnews.com/International/live-updates/iran-live-updates-tanker-attacked-strait-hormuz-ukmto/?id=138171071"
+        }
+      ]
+    },
+    {
+      "title": "Tysk journalist reagerer på EU-sanksjoner",
+      "start": 266.85,
+      "sources": [
+        {
+          "name": "EU-rådet (pressemelding)",
+          "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/16/russia-s-fimi-and-malicious-cyber-activities-council-imposes-sanctions-on-30-individuals-and-two-entities/"
+        },
+        {
+          "name": "EU-rådet (pressemelding)",
+          "url": "https://www.consilium.europa.eu/en/press/press-releases/2025/05/20/russian-hybrid-threats-eu-lists-further-21-individuals-and-6-entities-and-introduces-sectoral-measures-in-response-to-destabilising-activities-against-the-eu-its-member-states-and-international-partners/"
+        }
+      ]
+    },
+    {
+      "title": "Tesla planlegger Cybercab-fabrikk ved Berlin",
+      "start": 314.04,
+      "sources": [
+        {
+          "name": "Electrek",
+          "url": "https://electrek.co/2026/11/16/tesla-cybercab-giga-berlin-3-billion-1-million/"
+        },
+        {
+          "name": "ITavisen",
+          "url": "https://itavisen.no/2026/11/17/tesla-cybercab-en-million-biler-eu-tillater-1500/"
+        },
+        {
+          "name": "EUR-Lex",
+          "url": "https://eur-lex.europa.eu/eli/reg_impl/2022/1426/2026-03-24/eng"
+        }
+      ]
+    },
+    {
+      "title": "Trump om gassrørledning i Alaska",
+      "start": 342.44,
+      "sources": [
+        {
+          "name": "Yonhap",
+          "url": "https://en.yna.co.kr/view/AEN20261117010700315"
+        },
+        {
+          "name": "Financial News",
+          "url": "https://en.fnnews.com/news/202611180109446811"
+        },
+        {
+          "name": "Permitting Council (pressemelding)",
+          "url": "https://www.permitting.gov/newsroom/press-releases/alaska-lng-completes-federal-permitting-ahead-schedule"
+        }
+      ]
+    },
+    {
+      "title": "Hadrian kjøper støperi i Pennsylvania",
+      "start": 383.1,
+      "sources": [
+        {
+          "name": "PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/hadrian-acquires-kutztown-foundry--machine-plans-300-million-investment-to-expand-americas-submarine-production-capacity-302939809.html"
+        },
+        {
+          "name": "Business Wire",
+          "url": "https://www.businesswire.com/news/home/20261116835415/en/"
+        }
+      ]
+    },
+    {
+      "title": "Nye regler for kundekontroll i amerikanske banker",
+      "start": 402.76,
+      "sources": [
+        {
+          "name": "USAs finansdepartement (pressemelding)",
+          "url": "https://home.treasury.gov/news/press-releases/sb0691/"
+        },
+        {
+          "name": "PYMNTS",
+          "url": "https://www.pymnts.com/legal/bank-regulation/2026/bessent-says-proposed-fincen-rule-cuts-bank-red-tape-to-fight-crime/"
+        }
+      ]
+    },
+    {
+      "title": "Los Angeles må betale tilbake hjemløsemidler",
+      "start": 433.67,
+      "sources": [
+        {
+          "name": "USAs boligdepartement (pressemelding)",
+          "url": "https://www.hud.gov/news/hud-no-26-093"
+        },
+        {
+          "name": "AP",
+          "url": "https://apnews.com/article/los-angeles-homeless-services-housing-urban-development-03c90c8e8dd6b013669540c4344410e1"
+        },
+        {
+          "name": "Bisnow",
+          "url": "https://www.bisnow.com/news/los-angeles/affordable-housing/lahsa-stripped-of-hud-funding-in-finalized-settlement"
+        }
+      ]
+    },
+    {
+      "title": "Tiltale for matkupongsvindel i New York",
+      "start": 462.53,
+      "sources": [
+        {
+          "name": "Påtalemyndigheten på Manhattan",
+          "url": "https://manhattanda.org/new-york-snap-recipients-lose-more-than-7-million-in-alleged-fraud/"
+        },
+        {
+          "name": "Gothamist",
+          "url": "https://gothamist.com/news/8-people-charged-in-7m-snap-benefit-fraud-scheme"
+        }
+      ]
+    },
+    {
+      "title": "Markering i Haiti til støtte for Bukele",
+      "start": 487.73,
+      "sources": [
+        {
+          "name": "AP",
+          "url": "https://apnews.com/article/haiti-gangs-violence-el-salvador-forces-d198c1a2d075bb161f9f438d76b8d7a1"
+        },
+        {
+          "name": "NAGO News",
+          "url": "https://news.nago.tv/en/mwen-renmen-nou-tou-nayib-bukele-repond-en-creole-aux-manifestants-haitiens"
+        },
+        {
+          "name": "Diario Libre",
+          "url": "https://www.diariolibre.com/mundo/haiti/2026/11/17/bukele-responde-al-pueblo-haitiano/3723739"
+        }
+      ]
+    },
+    {
+      "title": "Stortinget i går",
+      "start": 510.42,
+      "sources": [
+        {
+          "name": "Stortinget (møter)",
+          "url": "https://data.stortinget.no/eksport/moter?sesjonid=2026-2027"
+        },
+        {
+          "name": "Stortinget (dagsorden)",
+          "url": "https://data.stortinget.no/eksport/dagsorden?moteid=11685"
+        },
+        {
+          "name": "Stortinget (voteringer)",
+          "url": "https://data.stortinget.no/eksport/voteringer?sakid=200327"
+        },
+        {
+          "name": "Stortinget (voteringer)",
+          "url": "https://data.stortinget.no/eksport/voteringer?sakid=200192"
+        },
+        {
+          "name": "Stortinget (voteringer)",
+          "url": "https://data.stortinget.no/eksport/voteringer?sakid=200323"
+        },
+        {
+          "name": "Stortinget (voteringsforslag)",
+          "url": "https://data.stortinget.no/eksport/voteringsforslag?voteringid=28631"
+        },
+        {
+          "name": "Stortinget (voteringsforslag)",
+          "url": "https://data.stortinget.no/eksport/voteringsforslag?voteringid=28630"
+        },
+        {
+          "name": "Stortinget (voteringsforslag)",
+          "url": "https://data.stortinget.no/eksport/voteringsforslag?voteringid=28634"
+        },
+        {
+          "name": "Stortinget (voteringsforslag)",
+          "url": "https://data.stortinget.no/eksport/voteringsforslag?voteringid=28635"
+        },
+        {
+          "name": "Stortinget (voteringsforslag)",
+          "url": "https://data.stortinget.no/eksport/voteringsforslag?voteringid=28636"
+        },
+        {
+          "name": "Stortinget (voteringsforslag)",
+          "url": "https://data.stortinget.no/eksport/voteringsforslag?voteringid=28637"
+        },
+        {
+          "name": "Stortinget (voteringsforslag)",
+          "url": "https://data.stortinget.no/eksport/voteringsforslag?voteringid=28638"
+        },
+        {
+          "name": "Stortinget (voteringsforslag)",
+          "url": "https://data.stortinget.no/eksport/voteringsforslag?voteringid=28641"
+        },
+        {
+          "name": "Stortinget (sak)",
+          "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200327"
+        },
+        {
+          "name": "Stortinget (skriftlige spørsmål)",
+          "url": "https://data.stortinget.no/eksport/skriftligesporsmal?sesjonid=2026-2027"
+        },
+        {
+          "name": "Stortinget (Sivertsen)",
+          "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=130208"
+        },
+        {
+          "name": "Stortinget (Listhaug)",
+          "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=130204"
+        },
+        {
+          "name": "Stortinget (Svardal Bøe)",
+          "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=130201"
+        },
+        {
+          "name": "Stortinget (Pollestad)",
+          "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=130189"
+        },
+        {
+          "name": "Stortinget (Fiskaa)",
+          "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=130085"
+        },
+        {
+          "name": "Stortinget (pressemelding)",
+          "url": "https://kommunikasjon.ntb.no/pressemelding/19142113/energi-og-miljokomiteen-til-fns-klimatoppmote-i-tyrkia?lang=no&publisherId=16587288"
+        }
+      ]
+    }
+  ]
+}
