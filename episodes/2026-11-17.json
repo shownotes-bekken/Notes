@@ -1,0 +1,220 @@
+{
+  "date": "2026-11-17",
+  "title": "Bekken – tirsdag 17. november 2026",
+  "description": "Riksrevisjonens kritikk av kontrollen med regnskog-milliardene får FrPs Tor Mikkel Wara til å kreve gransking av hele bistanden, mens rekordlav fyllingsgrad i Sørvest-Norge, lavere krafteksport enn i fjor og prognoser for en kald vinter preger strømdebatten. EU har sanksjonert den irske RT-journalisten Chay Bowes, Kanariøyene fikk rekordmange migranter på ett døgn, og Kina har bekreftet et toppmøte mellom Xi, Trump og Putin torsdag. I USA omtales også bankproblemer, nedleggelsen av en omstridt politienhet i New York og en endring i Medicare om vaksinebivirkninger.",
+  "links": {
+    "spotify": "https://open.spotify.com/episode/7lZcracufOnNByAfdLmfhI",
+    "youtube": "https://youtu.be/FBjAEeVXxmg",
+    "x": "https://x.com/i/status/2122606674888290416"
+  },
+  "topics": [
+    {
+      "title": "Wara krever gransking av bistanden",
+      "start": 6.0,
+      "sources": [
+        {
+          "name": "iNyheter",
+          "url": "https://inyheter.no/16/11/2026/wara-vil-granske-bistandspengene-etter-milliardkritikk/"
+        },
+        {
+          "name": "Panorama Nyheter",
+          "url": "https://www.panoramanyheter.no/klima-klima-og-miljodepartementet-norad/naturlig-at-vi-ser-pa-hele-bistandsfeltet/435548"
+        },
+        {
+          "name": "Riksrevisjonen (pressemelding)",
+          "url": "https://kommunikasjon.ntb.no/pressemelding/19135828/"
+        },
+        {
+          "name": "Panorama Nyheter",
+          "url": "https://www.panoramanyheter.no/bistandsbransjen-norad-riksrevisjonen/riksrevisjonen-starter-undersokelse-av-ud-og-norad/435367"
+        }
+      ]
+    },
+    {
+      "title": "Rekordlav fyllingsgrad i Sørvest-Norge",
+      "start": 87.72,
+      "sources": [
+        {
+          "name": "VG",
+          "url": "https://www.vg.no/nyheter/i/WmLQqd/saa-lite-vann-er-det-i-magasinene-i-soervest-norge"
+        },
+        {
+          "name": "NVE",
+          "url": "https://www.nve.no/media/20531/2026__45_kraftsituasjonen.pdf"
+        },
+        {
+          "name": "NVE",
+          "url": "https://www.nve.no/energi/analyser-og-statistikk/magasinstatistikk/"
+        },
+        {
+          "name": "SSB",
+          "url": "https://www.ssb.no/statbank/table/14091"
+        },
+        {
+          "name": "NVE",
+          "url": "https://www.nve.no/media/19972/kraftsituasjonen_2026q1.pdf"
+        },
+        {
+          "name": "Energi og Klima",
+          "url": "https://www.energiogklima.no/meninger-og-analyse/kommentar/okende-sannsynlighet-for-kald-vinter"
+        },
+        {
+          "name": "E24",
+          "url": "https://e24.no/energi-og-klima/i/16ay1K/nho-krever-stroemtiltak-mange-bedrifter-er-frustrerte"
+        }
+      ]
+    },
+    {
+      "title": "Regnefeil i solkraftutredning",
+      "start": 180.25,
+      "sources": [
+        {
+          "name": "NRK",
+          "url": "https://www.nrk.no/artikkel/enorm-solcelle-gevinst-var-regnetabbe-1532811"
+        }
+      ]
+    },
+    {
+      "title": "Krav om å oppheve vindkraftvedtak i Sokndal",
+      "start": 227.2,
+      "sources": [
+        {
+          "name": "Stavanger Aftenblad",
+          "url": "https://www.aftenbladet.no/lokalt/i/EbWbja/krever-vindkraftvedtak-opphevet-ulovlig-avtale"
+        },
+        {
+          "name": "Stavanger Aftenblad",
+          "url": "https://www.aftenbladet.no/lokalt/i/d4yznX/kan-faa-millioner-hvis-de-sier-ja-til-nye-vindmoeller"
+        },
+        {
+          "name": "NRK",
+          "url": "https://www.nrk.no/rogaland/nve-gir-gront-lys-for-vindkraftverk-pa-moldalsknuten-i-sokndal-i-dalane-1.18060436"
+        }
+      ]
+    },
+    {
+      "title": "Politiet om råere kriminalitet",
+      "start": 262.96,
+      "sources": [
+        {
+          "name": "Nettavisen",
+          "url": "https://www.nettavisen.no/nyheter/hakon-jorgensen-67-er-norges-eldste-innsatsleder-i-politiet-mer-brutal-kriminalitet/s/80-95-235389"
+        }
+      ]
+    },
+    {
+      "title": "EU sanksjonerer Chay Bowes",
+      "start": 293.42,
+      "sources": [
+        {
+          "name": "The Irish Times",
+          "url": "https://www.irishtimes.com/ireland/2026/11/16/chay-bowes-put-on-eu-sanctions-list-for-spreading-russian-propaganda/"
+        },
+        {
+          "name": "RTÉ",
+          "url": "https://www.rte.ie/news/europe/2026/1116/1599321-eu-ukraine-politics/"
+        },
+        {
+          "name": "The Journal",
+          "url": "https://www.thejournal.ie/chay-bowes-sanctions-eu-rt-7227591-Nov2026/"
+        }
+      ]
+    },
+    {
+      "title": "Rekordmange migranter til Kanariøyene",
+      "start": 337.38,
+      "sources": [
+        {
+          "name": "El País",
+          "url": "https://elpais.com/espana/2026-11-15/la-ruta-migratoria-a-canarias-bate-su-record-de-llegadas-en-un-solo-dia-con-1500-personas.html"
+        },
+        {
+          "name": "EFE",
+          "url": "https://efe.com/canarias/2026-11-15/record-de-rescates-de-miergrantes-en-un-solo-dia-en-la-ruta-canaria/"
+        }
+      ]
+    },
+    {
+      "title": "Estland vil holde Russland utenfor fredsforhandlingene",
+      "start": 379.72,
+      "sources": [
+        {
+          "name": "X: @markomihkelson",
+          "url": "https://x.com/markomihkelson/status/2121875649002389855"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/16/trump-xi-putin-ukraine-nuclear-tariffs-russia-iran-.html"
+        }
+      ]
+    },
+    {
+      "title": "Trump, Xi og Putin møtes i Shenzhen",
+      "start": 412.16,
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/16/trump-xi-putin-ukraine-nuclear-tariffs-russia-iran-.html"
+        },
+        {
+          "name": "CBS News",
+          "url": "https://www.cbsnews.com/news/trump-asia-trip-trilateral-summit-putin-xi/"
+        },
+        {
+          "name": "CBS News",
+          "url": "https://www.cbsnews.com/news/trump-nvidia-jensen-huang/"
+        }
+      ]
+    },
+    {
+      "title": "Teknisk feil hos amerikanske banker",
+      "start": 467.49,
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cj752wvqneq6o"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html"
+        },
+        {
+          "name": "USA Today",
+          "url": "https://www.usatoday.com/story/money/2026/11/16/bank-outage-nationwide-chase-bofa--live/92814152007/"
+        }
+      ]
+    },
+    {
+      "title": "New York legger ned politienhet",
+      "start": 503.5,
+      "sources": [
+        {
+          "name": "New York City",
+          "url": "https://www.nyc.gov/mayors-office/news/2026/11/mayor-mamdani_and-police-commissionertischdisbandnypd-s-strategi"
+        },
+        {
+          "name": "NBC New York",
+          "url": "https://www.nbcnewyork.com/news/local/mamdani-tisch-disband-nypd-strategic-response-group/6572816/"
+        },
+        {
+          "name": "India Today",
+          "url": "https://www.indiatoday.in/world/us-news/story/zohran-mamdani-disbands-nypd-strategic-response-group-civilian-led-protest-response-3040378-2026-11-17"
+        }
+      ]
+    },
+    {
+      "title": "Medicare betaler for utredning av vaksinebivirkninger",
+      "start": 555.52,
+      "sources": [
+        {
+          "name": "Inside Health Policy",
+          "url": "https://insidehealthpolicy.com/daily-news/cms-pay-physicians-vaccine-adverse-events-diagnosis-treatment"
+        },
+        {
+          "name": "Federal Register",
+          "url": "https://www.federalregister.gov/documents/full_text/html/2026/11/09/2026-22743.html"
+        }
+      ]
+    }
+  ]
+}
