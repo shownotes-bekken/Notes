@@ -2,62 +2,432 @@
   "date": "2026-11-25",
   "title": "Bekken – onsdag 25. november 2026",
   "description": "De rødgrønne partiene er fortsatt ikke enige om statsbudsjettet, og klimaminister Sigrun Aasland vil ikke legge fram en prislapp for klimamålene. Episoden tar også for seg Å Energis tap på Morrow, lave vannmagasiner i Sørvest-Norge, statens utgifter i 2025 til bistand, klima, Nav og konkursrammede bedrifter, USAs svindelinnsats, dokumentene om ransakingen hos Ilhan Omar, Trump-ruten i Kaukasus, Europaparlamentets kritikk av Tsjekkia og hva som skjedde på Stortinget tirsdag.",
-  "links": {},
+  "links": {
+    "spotify": "https://open.spotify.com/episode/6vOs77dEIEPQGsc8TOzP38",
+    "youtube": "https://youtu.be/4oDjuLBzr-0",
+    "x": "https://x.com/i/status/2125542140956586457"
+  },
   "topics": [
     {
-      "title": "Valutakurser, bitcoin og Oljefondet klokken 06",
+      "title": "Kurser og Oljefondet",
       "start": 4.24,
       "sources": []
     },
     {
       "title": "Fortsatt ingen budsjettavtale",
       "start": 28.37,
-      "sources": []
+      "sources": [
+        {
+          "name": "VG",
+          "url": "https://www.vg.no/nyheter/i/0vna1g/budsjettforhandlinger-sps-ultimatum-om-bensinavgift-mot-mdg"
+        },
+        {
+          "name": "NRK",
+          "url": "https://www.nrk.no/nyheter/maratonmote-fortsetter-_-ingen-budsjettlosning-1.18088047"
+        },
+        {
+          "name": "NRK",
+          "url": "https://www.nrk.no/nyheter/ingen-utsatt-frist-for-de-rodgronne_-ma-avklare-innen-onsdag-1.18087741"
+        },
+        {
+          "name": "Dagbladet",
+          "url": "https://www.dagbladet.no/nyheter/stormet-ut-etter-betent-mote/85464888"
+        }
+      ]
     },
     {
       "title": "Ingen prislapp på klimamålene",
       "start": 90.49,
-      "sources": []
+      "sources": [
+        {
+          "name": "Aftenposten",
+          "url": "https://www.aftenposten.no/norge/politikk/i/2v12oG/forskere-slakter-regjeringens-argument-for-ikke-aa-regne-paa-hva-de-norske-klimamaalene-koster"
+        }
+      ]
     },
     {
       "title": "Å Energis tap på Morrow",
       "start": 125.03,
-      "sources": []
+      "sources": [
+        {
+          "name": "EnergiWatch",
+          "url": "https://energiwatch.no/nyheter/nett_teknologi/article19858644.ece"
+        },
+        {
+          "name": "EnergyWatch",
+          "url": "https://energywatch.com/EnergyNews/investors/article19861566.ece"
+        },
+        {
+          "name": "NRK",
+          "url": "https://www.nrk.no/sorlandet/tapte-milliardbelop-pa-morrow_-_-mye-a-laere-av-investeringen-1.18085719"
+        },
+        {
+          "name": "Aust-Agder Blad",
+          "url": "https://www.austagderblad.no/frikjennes-etter-milliardtap-pa-morrow-men-styrelederen-haper-kapittelet-na-er-lukket/s/80-6-16344"
+        },
+        {
+          "name": "Å Energi (pressemelding)",
+          "url": "https://kommunikasjon.ntb.no/pressemelding/18879042/arsrapport-2025-foreslar-utbytte-pa-15-milliarder-kroner-fra-a-energi?lang=no&publisherId=17848371"
+        }
+      ]
     },
     {
       "title": "Lave vannmagasiner og gårsdagens høyeste strømpris",
       "start": 204.97,
-      "sources": []
+      "sources": [
+        {
+          "name": "Magasinstatistikk",
+          "url": "https://magasinstatistikk.no/en/no2/"
+        },
+        {
+          "name": "NRK",
+          "url": "https://www.nrk.no/sorlandet/laveste-vannstand-siden-malingen-startet-1.18084257"
+        },
+        {
+          "name": "Hva koster strømmen (NO1)",
+          "url": "https://www.hvakosterstrommen.no/api/v1/prices/2026/11-24_NO1.json"
+        },
+        {
+          "name": "Hva koster strømmen (NO2)",
+          "url": "https://www.hvakosterstrommen.no/api/v1/prices/2026/11-24_NO2.json"
+        },
+        {
+          "name": "Hva koster strømmen (NO3)",
+          "url": "https://www.hvakosterstrommen.no/api/v1/prices/2026/11-24_NO3.json"
+        },
+        {
+          "name": "Hva koster strømmen (NO4)",
+          "url": "https://www.hvakosterstrommen.no/api/v1/prices/2026/11-24_NO4.json"
+        },
+        {
+          "name": "Hva koster strømmen (NO5)",
+          "url": "https://www.hvakosterstrommen.no/api/v1/prices/2026/11-24_NO5.json"
+        }
+      ]
     },
     {
       "title": "Statens utgifter i 2025: bistand, klima, Morrow, skoler, konkurser og Nav",
       "start": 239.65,
-      "sources": []
+      "sources": [
+        {
+          "name": "Norad",
+          "url": "https://www.norad.no/contentassets/3fbc924b363643fa9ddc184b62f2f6d4/tall-som-teller---statistikk-over-norsk-utviklingsbistand-i-2025.pdf"
+        },
+        {
+          "name": "Norad",
+          "url": "https://www.norad.no/aktuelt/nyheter/2026/norsk-bistand-oker-mens-globale-bistandskutt-rammer-hardt/"
+        },
+        {
+          "name": "Norad",
+          "url": "https://resultater.norad.no/bistands-tall/geografi/europa/ukraina?fordeling=geography&show=bistand"
+        },
+        {
+          "name": "Norad",
+          "url": "https://resultater.norad.no/tema/klima"
+        },
+        {
+          "name": "Regjeringen",
+          "url": "https://www.regjeringen.no/no/tema/utenrikssaker/humanitart-arbeid/naboland_hjelp/id2908141/"
+        },
+        {
+          "name": "Norad",
+          "url": "https://www.norad.no/aktuelt/nyheter/2025/125-milliarder-kroner-i-sivil-stotte-til-ukraina/"
+        },
+        {
+          "name": "Stortinget",
+          "url": "https://www.stortinget.no/globalassets/pdf/dokumentserien/2025-2026/dok3-202526-013.pdf"
+        },
+        {
+          "name": "Stortinget",
+          "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Vedtak/Sak/?p=100198"
+        },
+        {
+          "name": "Enova",
+          "url": "https://www.regjeringen.no/contentassets/051d75e38a4743c3a29f2bb169a4443d/arsrapport-2025-enova.pdf"
+        },
+        {
+          "name": "Gassnova",
+          "url": "https://www.regjeringen.no/contentassets/98bccb1372ab47c99cc0a08e25752066/2026/arsrapport-gassnova-for-2025.pdf"
+        },
+        {
+          "name": "Regjeringen",
+          "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-satser-pa-gronn-omstilling/id3143670/"
+        },
+        {
+          "name": "Innovasjon Norge",
+          "url": "https://www.innovasjonnorge.no/nyhetsartikkel/pa-lag-med-naeringslivet-i-2025"
+        },
+        {
+          "name": "Shifter",
+          "url": "https://www.shifter.no/nyheter/regjeringen-legger-ned-miljoteknologiordningen/478309"
+        },
+        {
+          "name": "Stortinget",
+          "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=123044"
+        },
+        {
+          "name": "Stortinget",
+          "url": "https://www.stortinget.no/globalassets/pdf/dokumentserien/2025-2026/dok15-202526-2884-vedlegg.pdf"
+        },
+        {
+          "name": "Stortinget",
+          "url": "https://www.stortinget.no/globalassets/pdf/initiativsaker/morrow-batteries/svarbrev_05november_morrow_batteries.pdf"
+        },
+        {
+          "name": "Morrow Batteries (pressemelding)",
+          "url": "https://www.mynewsdesk.com/morrow-batteries/pressreleases/styret-i-morrow-batteries-asa-har-besluttet-aa-begjaere-konkurs-3446834"
+        },
+        {
+          "name": "Finansavisen",
+          "url": "https://www.finansavisen.no/industri/2026/05/07/8349654/batteridrommen-brast-her-er-morrow-tallene"
+        },
+        {
+          "name": "Finansavisen",
+          "url": "https://www.finansavisen.no/industri/2026/05/21/8352337/morrow-tapet-oker-med-800-mill."
+        },
+        {
+          "name": "Finansavisen",
+          "url": "https://www.finansavisen.no/finans/2025/01/02/8225201/8-av-11-milliarder-i-pant-var-luft"
+        },
+        {
+          "name": "Finansavisen",
+          "url": "https://www.finansavisen.no/energi/2025/02/14/8242593/morrow-eiere-fikk-30-prosent-til-dumpingpris"
+        },
+        {
+          "name": "DN",
+          "url": "https://www.dn.no/energi/morrow-batteries/batterier/konkurs/morrow-konkursen-innovasjon-norge-har-fatt-tilbake-500-mill-hittil/2-1-2059384"
+        },
+        {
+          "name": "EnergiWatch",
+          "url": "https://energiwatch.no/nyheter/fornybar/article19751770.ece"
+        },
+        {
+          "name": "Shifter",
+          "url": "https://www.shifter.no/nyheter/har-lant-en-milliard-fra-innovasjon-norge-na-er-verdien-pa-boet-klart/466804"
+        },
+        {
+          "name": "Shifter",
+          "url": "https://www.shifter.no/nyheter/innovasjon-norge-tviler-pa-at-de-far-igjen-alt-de-lante-ut-til-morrow/468304"
+        },
+        {
+          "name": "NRK",
+          "url": "https://www.nrk.no/sorlandet/tapte-milliardbelop-pa-morrow_-_-mye-a-laere-av-investeringen-1.18085719"
+        },
+        {
+          "name": "Regjeringen",
+          "url": "https://www.regjeringen.no/no/tema/kommuner-og-regioner/kommuneokonomi/robek-2/kommuner-som-er-oppfort-i-registeret/id415422/"
+        },
+        {
+          "name": "Tvedestrand kommune",
+          "url": "https://app.kaukus.no/tvedestrand/cases/30567/case_attachments/25784/download"
+        },
+        {
+          "name": "Å Energi",
+          "url": "https://www.aaeierne.no/eierstruktur"
+        },
+        {
+          "name": "Vardar",
+          "url": "https://www.vardar.no/eiere/"
+        },
+        {
+          "name": "Vardar",
+          "url": "https://www.vardar.no/wp-content/uploads/2026/08/2026-Vardar-halvarsrapport.pdf"
+        },
+        {
+          "name": "Altinget",
+          "url": "https://www.altinget.no/artikkel/norge-maa-betale-35-millioner-for-overnatting-under-klimatoppmoetet-veldig-fornoeyd"
+        },
+        {
+          "name": "Nettavisen",
+          "url": "https://www.nettavisen.no/nyheter/regjeringen-betalte-2-mill-for-overnatting-pa-klimatoppmote/s/5-95-2728299"
+        },
+        {
+          "name": "Udir",
+          "url": "https://www.udir.no/tall-og-forskning/statistikk/statistikk-grunnskole/analyser/2026/skoler-lagt-ned-2025/"
+        },
+        {
+          "name": "SSB",
+          "url": "https://www.ssb.no/virksomheter-foretak-og-regnskap/konkurser/statistikk/opna-konkursar/artikler/fleire-opne-konkursar-i-fjerde-kvartal-2025"
+        },
+        {
+          "name": "SSB",
+          "url": "https://www.ssb.no/statbank/table/07218"
+        },
+        {
+          "name": "Nav",
+          "url": "https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/nyheter/over-halve-befolkningen-fikk-en-utbetaling-fra-nav-i-2025"
+        },
+        {
+          "name": "Nav",
+          "url": "https://www.nav.no/_/attachment/download/0cab172e-cd07-418a-808f-b06fa7d2d917:15cfef08e72ee2f9302cff8b6a435befd0d28f86/U300%20Statsregnskap.%20Utbetalinger%20innland%20og%20utland%202025.pdf"
+        },
+        {
+          "name": "Nav",
+          "url": "https://www.nav.no/_/en/attachment/inline/b3493af1-037d-4f41-aaa6-631ac4565ca3:5e407ef10e9152cc1d00a940353ce5ab4b9f74e1/%C3%85rsrapport%202025.pdf"
+        },
+        {
+          "name": "Nav",
+          "url": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd"
+        },
+        {
+          "name": "Nav",
+          "url": "https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/nyheter/svak-vekst-i-antall-aap-mottakere"
+        },
+        {
+          "name": "Nav",
+          "url": "https://www.nav.no/_/attachment/download/21ed030a-c570-4db8-a941-354e4651a1c0:3cb4100ee665a82679720c6741bb0fe43f368b43/202610_ARBS051%20Mottakere%20av%20dagpenger.%20Kjonn%20og%20alder.%20Tidsserie,%20maaned.pdf"
+        },
+        {
+          "name": "Nav",
+          "url": "https://www.nav.no/no/nav-og-samfunn/statistikk/sykefravar-statistikk/sykepenger"
+        },
+        {
+          "name": "SSB",
+          "url": "https://www.ssb.no/sosiale-forhold-og-kriminalitet/trygd-og-stonad/statistikk/okonomisk-sosialhjelp"
+        },
+        {
+          "name": "SSB",
+          "url": "https://www.ssb.no/statbank/table/05973"
+        },
+        {
+          "name": "SSB",
+          "url": "https://www.ssb.no/statbank/table/13472"
+        },
+        {
+          "name": "SSB",
+          "url": "https://www.ssb.no/statbank/table/11653"
+        },
+        {
+          "name": "SSB",
+          "url": "https://www.ssb.no/arbeid-og-lonn/sysselsetting/statistikk/antall-arbeidsforhold-og-lonn"
+        },
+        {
+          "name": "Regjeringen",
+          "url": "https://www.regjeringen.no/no/aktuelt/historisk-endring-na-skal-klima-og-miljo-vektes-minst-30-i-offentlige-anskaffelser/id2990427/"
+        },
+        {
+          "name": "DFØ",
+          "url": "https://www.dfo.no/hovedmal-2-i-2024-offentlig-sektor-gjennomforer-effektive-og-innovative-anskaffelser-som-bidrar-til"
+        },
+        {
+          "name": "Innovative anskaffelser",
+          "url": "https://innovativeanskaffelser.no/content/uploads/2017/02/innovative-offentlige-anskaffelser-menon-rapport-mai-2015.pdf"
+        },
+        {
+          "name": "NHO",
+          "url": "https://www.nho.no/siteassets/nho-regioner-filer/nho-nordland/analysenotat_bygg-og-anlegg---menon.pdf"
+        },
+        {
+          "name": "Regjeringen",
+          "url": "https://www.regjeringen.no/contentassets/6d87f66a52eb41aa837c3ee9d446565e/endelig-rapport.-virkninger-av-store-offentlige-kontrakter.pdf"
+        }
+      ]
     },
     {
       "title": "USAs justisdepartement om innsatsen mot svindel",
       "start": 504.9,
-      "sources": []
+      "sources": [
+        {
+          "name": "USAs justisdepartement (pressemelding)",
+          "url": "https://www.justice.gov/opa/pr/justice-department-announces-largest-ever-crackdown-scammers-targeting-over-800-defendants"
+        },
+        {
+          "name": "UPI",
+          "url": "https://www.upi.com/Top_News/US/2026/11/24/-justice-department-scammers-crackdown/8201795549582/"
+        }
+      ]
     },
     {
       "title": "Dokumentene om ransakingen hos Ilhan Omar",
       "start": 565.25,
-      "sources": []
+      "sources": [
+        {
+          "name": "Roll Call",
+          "url": "https://rollcall.com/2026/11/23/evidence-sought-by-government-spanned-decades-in-omar-probe-new-records-show"
+        },
+        {
+          "name": "NBC News",
+          "url": "https://www.nbcnews.com/politics/congress/judge-unseals-court-documents-related-search-ilhan-omar-home-washingto-rcna611027"
+        }
+      ]
     },
     {
       "title": "Trump-ruten i Kaukasus",
       "start": 621.54,
-      "sources": []
+      "sources": [
+        {
+          "name": "Anadolu Agency",
+          "url": "https://aa.com.tr/en/americas/trump-pashinyan-announce-launch-of-tripp-corridor-project-in-armenia/4134536"
+        },
+        {
+          "name": "Armenias statsminister",
+          "url": "https://www.primeminister.am/en/statements-and-messages/item/2026/11/23/Nikol-Pashinyan-Speech-TRIPP/"
+        },
+        {
+          "name": "Armenias statsminister",
+          "url": "https://www.primeminister.am/en/press-release/item/2025/08/09/Nikol-Pashinyan-visit-US-declaration/"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/trump-announces-peace-agreement-between-azerbaijan-armenia-2025-08-08/"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/world/azerbaijan-armenia-publish-text-us-brokered-peace-deal-2025-08-11/"
+        },
+        {
+          "name": "Det hvite hus",
+          "url": "https://www.whitehouse.gov/releases/2025/08/president-trump-brokers-another-historic-peace-deal/"
+        }
+      ]
     },
     {
       "title": "Europaparlamentet kritiserer Tsjekkia",
       "start": 681.36,
-      "sources": []
+      "sources": [
+        {
+          "name": "České noviny",
+          "url": "https://www.ceskenoviny.cz/zpravy/ep-zkritizuje-postup-ceske-vlady-vuci-mediim-ukazuje-navrh-usneseni/2905847"
+        },
+        {
+          "name": "iDNES",
+          "url": "https://www.idnes.cz/zpravy/domaci/upravte-navrh-zakona-ktery-rusi-poplatky-za-ct-a-rozhlas-vyzvou-europoslanci-vladu.A261124_111213_domaci_aoc"
+        }
+      ]
     },
     {
       "title": "Stortinget i går",
       "start": 732.67,
-      "sources": []
+      "sources": [
+        {
+          "name": "Regjeringen",
+          "url": "https://www.regjeringen.no/no/aktuelt/redegjorelse-om-viktige-eu-og-eos-saker/id3194582/"
+        },
+        {
+          "name": "Formot",
+          "url": "https://www.formot.no/sak/200317"
+        },
+        {
+          "name": "Stortinget",
+          "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200327"
+        },
+        {
+          "name": "Formot",
+          "url": "https://www.formot.no/sak/200327"
+        },
+        {
+          "name": "Overstortinget",
+          "url": "https://www.overstortinget.no/sporsmal/130331"
+        },
+        {
+          "name": "Overstortinget",
+          "url": "https://www.overstortinget.no/sporsmal/131352"
+        },
+        {
+          "name": "Overstortinget",
+          "url": "https://www.overstortinget.no/sporsmal/130323"
+        }
+      ]
     }
   ]
 }
