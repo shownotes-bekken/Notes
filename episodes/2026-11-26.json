@@ -1,0 +1,261 @@
+{
+  "date": "2026-11-26",
+  "title": "Bekken – torsdag 26. november 2026",
+  "description": "Arbeiderpartiet, Senterpartiet, SV og Rødt ble enige om statsbudsjettet for neste år, men avtalen har foreløpig ikke flertall på Stortinget. Norgespris blir dyrere fra nyttår. Episoden tar også for seg iranske meldinger om miner i Hormuzstredet, Russlands advarsel til Estland, dokumenter fra det amerikanske bistandsbyrået USAID, en forskningsgjennomgang av ugressmiddelet glyfosat, en rapport i Europaparlamentet om støtte til frivillige organisasjoner, og hva som skjedde på Stortinget onsdag.",
+  "links": {},
+  "topics": [
+    {
+      "title": "Kurser og Oljefondet",
+      "start": 4.23,
+      "sources": []
+    },
+    {
+      "title": "Budsjettavtalen",
+      "start": 31.95,
+      "sources": [
+        {
+          "name": "NRK",
+          "url": "https://www.nrk.no/artikkel/dette-vet-vi-om-budsjettavtalen-1533954"
+        },
+        {
+          "name": "NRK",
+          "url": "https://www.nrk.no/artikkel/sikrer-enda-billigere-manedskort-1533741"
+        },
+        {
+          "name": "Aftenposten",
+          "url": "https://www.aftenposten.no/norge/politikk/i/0vn14B/fire-partier-enige-om-statsbudsjett-kutter-i-drivstoffavgift"
+        },
+        {
+          "name": "VG",
+          "url": "https://www.vg.no/nyheter/i/OypM0l/alt-du-maa-vite-om-budsjettdramaet-paa-stortinget"
+        }
+      ]
+    },
+    {
+      "title": "Norgespris og strømprisen",
+      "start": 129.53,
+      "sources": [
+        {
+          "name": "Nettavisen",
+          "url": "https://www.nettavisen.no/nyheter/norgespris-oker-til-45-ore-i-2027-sv-sp-og-rodt-fikk-ikke-gjennomslag/s/80-95-280442"
+        },
+        {
+          "name": "Nationen",
+          "url": "https://www.nationen.no/na-blir-det-dyrere-norgespris/s/80-148-82901"
+        },
+        {
+          "name": "Europower",
+          "url": "https://www.europower.no/politikk/kraftbransjen-knapt-berort-av-budsjettforliket-bare-tre-punkter-er-relevante/2-1-2079569"
+        },
+        {
+          "name": "Hva koster strømmen (NO2)",
+          "url": "https://www.hvakosterstrommen.no/api/v1/prices/2026/11-25_NO2.json"
+        }
+      ]
+    },
+    {
+      "title": "Iran og miner i Hormuzstredet",
+      "start": 195.77,
+      "sources": [
+        {
+          "name": "Arab News",
+          "url": "https://www.arabnews.com/middle-east/third-tanker-hits-mine-in-strait-of-hormuz-iran-says-3013942"
+        },
+        {
+          "name": "Iran International",
+          "url": "https://www.iranintl.com/en/202611254354"
+        }
+      ]
+    },
+    {
+      "title": "Russland advarer Estland",
+      "start": 259.82,
+      "sources": [
+        {
+          "name": "RIA Novosti",
+          "url": "https://ria.ru/20261123/mid-2133448346.html"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/23/russia-threatens-hostile-estonia-with-open-war"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/24/russia-estonia-ukraine-war-nato-finland.html"
+        }
+      ]
+    },
+    {
+      "title": "USAID-dokumentene",
+      "start": 316.26,
+      "sources": [
+        {
+          "name": "USAID",
+          "url": "https://www.usaid.gov/"
+        },
+        {
+          "name": "Newsweek",
+          "url": "https://www.newsweek.com/usaid-files-show-biden-admin-meddling-with-social-media-companies-12766632"
+        },
+        {
+          "name": "Reclaim The Net",
+          "url": "https://media.reclaimthenet.org/documents/usaid-files/gdi-usaid-concept-note-august-2022-293a61098fd0.pdf"
+        },
+        {
+          "name": "Reclaim The Net",
+          "url": "https://reclaimthenet.org/usaid-files-defund-downrank-deplatform"
+        },
+        {
+          "name": "Rational Ground",
+          "url": "https://www.rationalground.com/p/newly-released-usaid-docs-show-govt"
+        }
+      ]
+    },
+    {
+      "title": "Sprengstoff destruert i Iowa",
+      "start": 400.16,
+      "sources": [
+        {
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/11/25/nx-s1-6052338/army-detonation-lead-explosives-iowa"
+        },
+        {
+          "name": "EPA (pressemelding)",
+          "url": "https://www.epa.gov/newsreleases/initial-air-monitoring-shows-zero-detection-airborne-lead-following-controlled"
+        },
+        {
+          "name": "EPA (pressemelding)",
+          "url": "https://www.epa.gov/newsreleases/epa-collects-over-1200-air-land-and-water-samples-ahead-iowa-army-ammunition-plant"
+        },
+        {
+          "name": "Det hvite hus",
+          "url": "https://www.whitehouse.gov/releases/2026/11/trump-administrations-whole-of-government-effort-safely-neutralizes-obama-era-explosives-threat-in-iowa/"
+        }
+      ]
+    },
+    {
+      "title": "Kim Gardner fratatt advokatbevillingen",
+      "start": 466.44,
+      "sources": [
+        {
+          "name": "Missouri Lawyers Media",
+          "url": "https://molawyersmedia.com/2026/11/24/missouri-supreme-court-disbars-kim-gardner/"
+        },
+        {
+          "name": "St. Louis Public Radio",
+          "url": "https://www.stlpr.org/news-briefs/2026-11-24/missouri-supreme-court-disbars-attorney-over-ethics-case-involving-former-gov-greitens-prosecution"
+        }
+      ]
+    },
+    {
+      "title": "Glyfosat og NIEHS",
+      "start": 521.53,
+      "sources": [
+        {
+          "name": "The Washington Post",
+          "url": "https://www.washingtonpost.com/health/2026/11/22/federal-scientists-flag-new-cancer-concerns-with-common-herbicide/"
+        },
+        {
+          "name": "Tapestry",
+          "url": "https://tapestry.news/us-policy/glyphosate-niehs-cancer-reviews/"
+        },
+        {
+          "name": "KFF Health News",
+          "url": "https://kffhealthnews.org/morning-breakout/public-health-112326/"
+        },
+        {
+          "name": "NIEHS",
+          "url": "https://www.niehs.nih.gov/research/atniehs/labs/iha/projects/glygbh"
+        }
+      ]
+    },
+    {
+      "title": "EU-rapport om støtte til frivillige organisasjoner",
+      "start": 592.12,
+      "sources": [
+        {
+          "name": "Agence Europe",
+          "url": "https://agenceurope.eu/en/bulletin/article/13990/29/gotink-fidanza-report-on-ngos-adopted-by-internal-working-group-of-european-parliaments-committee-on-budgetary-control"
+        },
+        {
+          "name": "Politico",
+          "url": "https://www.politico.eu/article/document-conservative-lawmakers-demand-crackdown-eu-funded-lobbying/"
+        },
+        {
+          "name": "EPP",
+          "url": "https://www.eppgroup.eu/newsroom/no-more-parallel-lobbying-at-taxpayers-expense"
+        }
+      ]
+    },
+    {
+      "title": "Tankbilbrann i Kairo",
+      "start": 671.59,
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cqy7rn30v314o"
+        },
+        {
+          "name": "AP",
+          "url": "https://apnews.com/article/cairo-highway-fire-ring-road-89e4cd3d3d53016c9c35440b57c5ea1e"
+        },
+        {
+          "name": "Anadolu Agency",
+          "url": "https://www.aa.com.tr/en/middle-east/31-killed-21-injured-in-fuel-tanker-fire-in-giza-egypt/4137884"
+        }
+      ]
+    },
+    {
+      "title": "Gruppeangrep på Gold Coast",
+      "start": 699.73,
+      "sources": [
+        {
+          "name": "Queensland Police",
+          "url": "https://mypolice.qld.gov.au/news/2026/11/25/update-2-grievous-bodily-harm-surfers-paradise/"
+        },
+        {
+          "name": "ABC",
+          "url": "https://www.abc.net.au/news/2026-11-25/qld-schoolies-grievous-bodily-harm-bashing-court/107424536"
+        },
+        {
+          "name": "ABC",
+          "url": "https://www.abc.net.au/news/2026-11-26/gold-coast-schoolies-alleged-bashing-court/107429828"
+        }
+      ]
+    },
+    {
+      "title": "Stortinget i går",
+      "start": 735.89,
+      "sources": [
+        {
+          "name": "Stortinget",
+          "url": "https://data.stortinget.no/eksport/dagsorden?moteid=11682&format=json"
+        },
+        {
+          "name": "Overstortinget",
+          "url": "https://www.overstortinget.no/sporsmal/131400"
+        },
+        {
+          "name": "Overstortinget",
+          "url": "https://www.overstortinget.no/sporsmal/131357"
+        },
+        {
+          "name": "Overstortinget",
+          "url": "https://www.overstortinget.no/sporsmal/131375"
+        },
+        {
+          "name": "Overstortinget",
+          "url": "https://www.overstortinget.no/sporsmal/130332"
+        },
+        {
+          "name": "Overstortinget",
+          "url": "https://www.overstortinget.no/sporsmal/130273"
+        },
+        {
+          "name": "Overstortinget",
+          "url": "https://www.overstortinget.no/sporsmal/131376"
+        }
+      ]
+    }
+  ]
+}
