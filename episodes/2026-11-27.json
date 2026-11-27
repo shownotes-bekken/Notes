@@ -1,0 +1,193 @@
+{
+  "date": "2026-11-27",
+  "title": "Bekken – fredag 27. november 2026",
+  "description": "En russisk oligark skal ha hjulpet statsminister Jonas Gahr Støre og Finlands president Alexander Stubb med å få kontakt med Russlands president Vladimir Putin i oktober. En utredning viser at femten oljefelt kan bli stengt tidligere hvis CO2-avgiften på sokkelen fortsetter å øke. Episoden tar også for seg Værstats kritikk av NRKs dekning av Tuvalu, et droneangrep i Kuwait der to italienske teknikere ble drept, at EU-lederne ikke ble enige om unionens langtidsbudsjett, og hva som skjedde på Stortinget torsdag.",
+  "links": {},
+  "topics": [
+    {
+      "title": "Kurser og Oljefondet",
+      "start": 4.46,
+      "sources": []
+    },
+    {
+      "title": "Oligark skal ha hjulpet Støre og Stubb",
+      "start": 27.21,
+      "sources": [
+        {
+          "name": "The Wall Street Journal",
+          "url": "https://www.tovima.com/wsj/inside-the-scramble-to-avert-conflict-with-russia-in-the-baltic/"
+        },
+        {
+          "name": "Yle",
+          "url": "https://yle.fi/a/74-20259086"
+        },
+        {
+          "name": "Dagbladet",
+          "url": "https://www.dagbladet.no/nyheter/nye-detaljer-oligark-til-norge/85476594"
+        },
+        {
+          "name": "iNyheter",
+          "url": "https://inyheter.no/26/11/2026/fikk-hjelp-av-russisk-oligark/"
+        }
+      ]
+    },
+    {
+      "title": "CO2-avgift kan stenge oljefelt tidligere",
+      "start": 113.21,
+      "sources": [
+        {
+          "name": "DN",
+          "url": "https://www.dn.no/olje/olje-og-gass/fremskrittspartiet/venstre/15-oljefelt-star-i-fare-for-a-legges-ned-tidligere-symbolpolitikk-pa-sitt-verste/2-1-2076489"
+        },
+        {
+          "name": "Wood Mackenzie",
+          "url": "https://www.regjeringen.no/contentassets/fcdd8d946552414aab2d4ecc8fb57d1a/impact-of-dual-co2-policy-on-norwegian-oil-and-gas-sector.pdf"
+        },
+        {
+          "name": "Regjeringen",
+          "url": "https://www.regjeringen.no/no/aktuelt/utredning-om-dobbel-virkemiddelbruk/id3192880/"
+        },
+        {
+          "name": "North Sea Report",
+          "url": "https://northseareport.no/no/artikler/wood-mackenzie-anslar-kortere-feltlevetid-med-okt-co2-avgift"
+        },
+        {
+          "name": "E24",
+          "url": "https://e24.no/energi-og-klima/i/kMJR06/analyse-avgift-kan-stenge-oljefelt-tidlig"
+        },
+        {
+          "name": "Hva koster strømmen (NO1)",
+          "url": "https://www.hvakosterstrommen.no/api/v1/prices/2026/11-26_NO1.json"
+        },
+        {
+          "name": "Hva koster strømmen (NO2)",
+          "url": "https://www.hvakosterstrommen.no/api/v1/prices/2026/11-26_NO2.json"
+        },
+        {
+          "name": "Hva koster strømmen (NO3)",
+          "url": "https://www.hvakosterstrommen.no/api/v1/prices/2026/11-26_NO3.json"
+        },
+        {
+          "name": "Hva koster strømmen (NO4)",
+          "url": "https://www.hvakosterstrommen.no/api/v1/prices/2026/11-26_NO4.json"
+        },
+        {
+          "name": "Hva koster strømmen (NO5)",
+          "url": "https://www.hvakosterstrommen.no/api/v1/prices/2026/11-26_NO5.json"
+        }
+      ]
+    },
+    {
+      "title": "Værstat kritiserer NRKs dekning av Tuvalu",
+      "start": 214.23,
+      "sources": [
+        {
+          "name": "Værstat",
+          "url": "https://verstat.no/2026/11/26/nrk-tuvalu/"
+        },
+        {
+          "name": "NRK",
+          "url": "https://www.nrk.no/artikkel/tuvalu-bygger-opp-landet-hvordan-skal-vi-forberede-oss-1533555"
+        },
+        {
+          "name": "WIREs Climate Change",
+          "url": "https://wires.onlinelibrary.wiley.com/doi/10.1002/wcc.557"
+        },
+        {
+          "name": "HAL",
+          "url": "https://univ-rochelle.hal.science/hal-01924518"
+        },
+        {
+          "name": "Nature Communications",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5807422/"
+        },
+        {
+          "name": "Værstat",
+          "url": "https://verstat.no/2023/12/13/nrk-ignorerer-sporsmal/"
+        }
+      ]
+    },
+    {
+      "title": "To italienere drept i droneangrep i Kuwait",
+      "start": 437.68,
+      "sources": [
+        {
+          "name": "Italias utenriksdepartement",
+          "url": "https://www.esteri.it/en/sala_stampa/archivionotizie/comunicati/2026/11/attacco-con-droni-in-kuwait-due-cittadini-italiani-deceduti/"
+        },
+        {
+          "name": "NBC News",
+          "url": "https://www.nbcnews.com/world/middle-east/two-italians-killed-attack-kuwait-site-iran-denies-involvement-rcna611491"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/c39w9y5dx4k5o"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/27/italians-killed-in-kuwait-why-is-iran-denying-responsibility"
+        },
+        {
+          "name": "la Repubblica",
+          "url": "https://www.repubblica.it/en/world/2026/11/26/news/iranian_attack_in_kuwait_two_italians_injured_they_are_seriously_injured-425752147/"
+        }
+      ]
+    },
+    {
+      "title": "EU-lederne ble ikke enige om langtidsbudsjettet",
+      "start": 509.71,
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/news/articles/cw4gnm3m9deno"
+        },
+        {
+          "name": "AP",
+          "url": "https://apnews.com/article/europe-budget-ukraine-2028-summit-costa-fd025046850b824b2e62def18408c6b6"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/5f374b32b07b/world/eu-leaders-aim-budget-deal-before-end-year-merz-says-2026-11-26/"
+        }
+      ]
+    },
+    {
+      "title": "Stortinget i går",
+      "start": 573.1,
+      "sources": [
+        {
+          "name": "Stortinget",
+          "url": "https://data.stortinget.no/eksport/moter?sesjonid=2026-2027&format=json"
+        },
+        {
+          "name": "Stortinget",
+          "url": "https://data.stortinget.no/eksport/dagsorden?moteid=11687&format=json"
+        },
+        {
+          "name": "Stortinget",
+          "url": "https://data.stortinget.no/eksport/voteringer?sakid=200322&format=json"
+        },
+        {
+          "name": "Stortinget",
+          "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2026-2027/inns-202627-027s/?all=true"
+        },
+        {
+          "name": "Stortinget",
+          "url": "https://data.stortinget.no/eksport/skriftligesporsmal?sesjonid=2026-2027&format=json"
+        },
+        {
+          "name": "Overstortinget",
+          "url": "https://www.overstortinget.no/sporsmal/131424"
+        },
+        {
+          "name": "Overstortinget",
+          "url": "https://www.overstortinget.no/sporsmal/131343"
+        },
+        {
+          "name": "Stortinget",
+          "url": "https://data.stortinget.no/eksport/regjering?format=json"
+        }
+      ]
+    }
+  ]
+}
